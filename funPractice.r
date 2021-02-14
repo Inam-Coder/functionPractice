@@ -3,3 +3,8 @@ print(a)
 print(b)
 }
 f()
+g<-function(c=7,d=4){
+  print(c)
+  print(d)
+}
+g(15,22)
